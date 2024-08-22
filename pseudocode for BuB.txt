@@ -1,0 +1,20 @@
+Pseudocode for breakup buddy
+what is todays date?
+what is your SOs bday?
+
+then:
+get > calandar for current year
+get > moon phase for current year
+get > mercury retrograde for current year
+add > SOs bday
+
+then plot:
+get: october 31, december 25, january 1, february 14
+	block out 2 weeks before each date
+get: SOs bday and block out 3 weeks before date
+get: Mercury retrograde and highlight 
+get: Full moon from moon phase and highlight
+
+return: calandar color codes representing best and worst times to break up
+
+
